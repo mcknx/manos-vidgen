@@ -1,0 +1,7 @@
+out/*/src*
+out/*/voice*.wav
+out/*/clip*.mp4
+out/*/raw.mp4
+out/*/*.wav
+out/*/*.png
+out/*/clips.txt

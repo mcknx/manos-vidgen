@@ -1,0 +1,61 @@
+{
+  "title": "Why the Titanic Really Sank",
+  "scenes": [
+    {
+      "narration": "The Titanic didn't sink because it hit an iceberg head-on. It sank because it didn't.",
+      "queries": [
+        "RMS Titanic 1912",
+        "Titanic departing Southampton",
+        "Titanic photograph"
+      ]
+    },
+    {
+      "narration": "On April 14, 1912, the ship got several ice warnings from other ships, yet kept steaming at high speed through the night.",
+      "queries": [
+        "Titanic wireless room",
+        "Titanic Marconi telegram",
+        "North Atlantic iceberg 1912"
+      ]
+    },
+    {
+      "narration": "At 11:40 p.m., lookouts spotted an iceberg dead ahead. The crew turned hard, and the berg scraped along the starboard side.",
+      "queries": [
+        "Titanic iceberg suspected",
+        "iceberg Titanic 1912 photograph",
+        "Titanic crow's nest"
+      ]
+    },
+    {
+      "narration": "Titanic could float with four front compartments flooded. The scrape opened up at least five.",
+      "queries": [
+        "Titanic watertight compartments diagram",
+        "Titanic bulkheads plan",
+        "Titanic cross section"
+      ]
+    },
+    {
+      "narration": "The bulkheads didn't reach the top deck, so as the bow sank, water spilled over from one compartment into the next.",
+      "queries": [
+        "Titanic sinking illustration",
+        "Titanic Willy Stöwer painting",
+        "Titanic sinking diagram"
+      ]
+    },
+    {
+      "narration": "There were only twenty lifeboats, with room for about half the people on board. More than fifteen hundred died.",
+      "queries": [
+        "Titanic lifeboat 1912",
+        "Titanic collapsible lifeboat Carpathia",
+        "Carpathia Titanic survivors"
+      ]
+    },
+    {
+      "narration": "About two hours and forty minutes after the collision, it was gone. The iceberg made the hole, but the design decided how it ended.",
+      "queries": [
+        "Titanic wreck bow",
+        "Titanic wreck 2004",
+        "Titanic memorial"
+      ]
+    }
+  ]
+}

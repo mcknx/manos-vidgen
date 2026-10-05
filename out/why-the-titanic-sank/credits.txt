@@ -1,0 +1,19 @@
+Why the Titanic Really Sank
+
+Footage (Wikimedia Commons):
+1. Centraal Beheer Achmea - Box.webm — Caramel Pictures — CC BY 2.0
+   https://commons.wikimedia.org/wiki/File:Centraal_Beheer_Achmea_-_Box.webm
+2. Titanic Marconi Wireless Radio Room.jpg — Francis Browne — Public domain
+   https://commons.wikimedia.org/wiki/File:Titanic_Marconi_Wireless_Radio_Room.jpg
+3. Titanic iceberg.jpg — The chief steward of the liner Prinz Adalbert — Public domain
+   https://commons.wikimedia.org/wiki/File:Titanic_iceberg.jpg
+4. Wreck and sinking of the Titanic - the ocean's greatest disaster - a graphic and thrilling account of the sinking of the greatest floating palace ever built, carrying down to watery graves more than (14593299589).jpg — Internet Archive Book Images — No restrictions
+   https://commons.wikimedia.org/wiki/File:Wreck_and_sinking_of_the_Titanic_-_the_ocean%27s_greatest_disaster_-_a_graphic_and_thrilling_account_of_the_sinking_of_the_greatest_floating_palace_ever_built,_carrying_down_to_watery_graves_more_than_(14593299589).jpg
+5. LuxuriesVersusLifeboatsPuckMagazine1912.jpg — Keppler, Udo J., 1872-1956, artist — Public domain
+   https://commons.wikimedia.org/wiki/File:LuxuriesVersusLifeboatsPuckMagazine1912.jpg
+6. Titanic life boats recovered.jpg — S&amp;G — Public domain
+   https://commons.wikimedia.org/wiki/File:Titanic_life_boats_recovered.jpg
+7. Titanic wreck bow.jpg — Courtesy of NOAA/Institute for Exploration/University of Rhode Island (NOAA/IFE/URI). — Public domain
+   https://commons.wikimedia.org/wiki/File:Titanic_wreck_bow.jpg
+
+Voice: Piper TTS (local). Music: synthesized in ffmpeg. Script: Claude.

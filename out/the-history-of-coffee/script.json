@@ -1,0 +1,61 @@
+{
+  "title": "How Coffee Conquered the World",
+  "scenes": [
+    {
+      "narration": "Your morning coffee began as a way to stay awake for midnight prayers. In the 1400s, Sufi monks in Yemen drank it to get through long nights of worship.",
+      "queries": [
+        "Sufi dervishes Yemen",
+        "Mocha Yemen old port",
+        "coffee cherries branch"
+      ]
+    },
+    {
+      "narration": "Legend says an Ethiopian goat herder named Kaldi found it after his goats ate red berries and got jumpy. That part is a story, but the coffee plant really does come from Ethiopia.",
+      "queries": [
+        "Coffea arabica Ethiopia",
+        "Ethiopian coffee ceremony",
+        "goats Ethiopia highlands"
+      ]
+    },
+    {
+      "narration": "By the 1500s, coffeehouses had spread across Mecca, Cairo and Istanbul. People went there to talk, play games and argue about politics.",
+      "queries": [
+        "Ottoman coffeehouse painting",
+        "Turkish coffee house miniature",
+        "Istanbul coffeehouse historic"
+      ]
+    },
+    {
+      "narration": "Not everyone liked it. In 1511, the governor of Mecca banned coffee, but the ban did not last.",
+      "queries": [
+        "Mecca historical engraving",
+        "Masjid al-Haram old photograph",
+        "Turkish coffee cezve"
+      ]
+    },
+    {
+      "narration": "In the 1600s coffee reached Europe, and London filled with coffeehouses. Lloyd's of London, the famous insurance market, started in one of them.",
+      "queries": [
+        "Lloyd's Coffee House",
+        "17th century London coffeehouse",
+        "Lloyd's building London"
+      ]
+    },
+    {
+      "narration": "Europeans then took coffee plants to their colonies. The Dutch grew it on Java, and in 1727 coffee arrived in Brazil.",
+      "queries": [
+        "coffee plantation Java historic",
+        "Dutch East Indies coffee",
+        "Brazil coffee plantation"
+      ]
+    },
+    {
+      "narration": "Today Brazil grows more coffee than any other country. A prayer drink from Yemen now powers the whole world's mornings.",
+      "queries": [
+        "Brazil coffee harvest",
+        "coffee beans roasting",
+        "espresso cup closeup"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+How Coffee Conquered the World
+
+Footage (Wikimedia Commons):
+1. Plan du port de Mocha au Yemen en 1737.jpg — AnonymousUnknown author — Public domain
+   https://commons.wikimedia.org/wiki/File:Plan_du_port_de_Mocha_au_Yemen_en_1737.jpg
+2. Traditional Ethiopian Coffee Roasting Ceremony.webm — Keria T — CC BY-SA 4.0
+   https://commons.wikimedia.org/wiki/File:Traditional_Ethiopian_Coffee_Roasting_Ceremony.webm
+3. V&A Turkish coffehouse.jpg — Unknown Greek watercolourist — Public domain
+   https://commons.wikimedia.org/wiki/File:V%26A_Turkish_coffehouse.jpg
+4. Madaan-saleh.jpg — رومان — CC BY-SA 4.0
+   https://commons.wikimedia.org/wiki/File:Madaan-saleh.jpg
+5. Blue plaque marking site of Lloyds coffee house.jpg — Back ache — CC BY-SA 4.0
+   https://commons.wikimedia.org/wiki/File:Blue_plaque_marking_site_of_Lloyds_coffee_house.jpg
+6. Marianne North (1830-1890) - Coffee Plantation at Clifton Mount and the Blue Mountains beyond Jamaica - MN177 - Marianne North Gallery.jpg — Marianne North — Public domain
+   https://commons.wikimedia.org/wiki/File:Marianne_North_(1830-1890)_-_Coffee_Plantation_at_Clifton_Mount_and_the_Blue_Mountains_beyond_Jamaica_-_MN177_-_Marianne_North_Gallery.jpg
+7. Traditional Ethiopian Coffee Roasting Ceremony.webm — Keria T — CC BY-SA 4.0
+   https://commons.wikimedia.org/wiki/File:Traditional_Ethiopian_Coffee_Roasting_Ceremony.webm
+
+Voice: Piper TTS (local). Music: synthesized in ffmpeg. Script: Claude.
